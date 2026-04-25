@@ -1,0 +1,8 @@
+venv
+.env
+Learning examples/
+/datasets
+/chroma_db
+snapshot.txt
+_pycache_/
+.cursor/
