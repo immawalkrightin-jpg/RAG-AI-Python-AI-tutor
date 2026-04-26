@@ -5,11 +5,11 @@ and AI concepts. Built entirely with local models — no paid APIs required.
 
 ## How It Works
 
-1. **Scraping** — Fetches Wikipedia articles based on keywords from 
+1. **Scraping** : Fetches Wikipedia articles based on keywords from 
 `keywords.xlsx` using the free Wikipedia API
-2. **Embedding & Ingestion** — Chunks text and embeds it into a 
+2. **Embedding & Ingestion** : Chunks text and embeds it into a 
 ChromaDB vector store using `mxbai-embed-large`
-3. **Chat** — LLaMA 3.2 3b retrieves relevant context and quizzes 
+3. **Chat** : LLaMA 3.2 3b retrieves relevant context and quizzes 
 the user adaptively based on their level and performance
 
 ## Features
