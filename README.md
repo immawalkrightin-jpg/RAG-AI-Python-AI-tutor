@@ -1,7 +1,7 @@
 # 🎓 Python & AI Programming Tutor
 
 An adaptive RAG-powered tutoring chatbot that quizzes you on Python 
-and AI concepts. Built entirely with local models — no paid APIs required.
+and AI concepts. Built entirely with local models (no paid APIs required).
 
 ## How It Works
 
